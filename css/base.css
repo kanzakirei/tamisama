@@ -235,6 +235,10 @@ footer .content a img {
   animation-fill-mode: forwards;
 }
 
+.topVideo .imageAnimation.is-animated {
+  animation-delay: 3.0s; 
+}
+
 @keyframes imageFadeLeftkeyframes {
   from  {
     opacity: 0;
